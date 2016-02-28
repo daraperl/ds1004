@@ -1,0 +1,19 @@
+dp1618
+*   1ad4d8f Final merge
+|\  
+| *   df9e46e Merge branch 'master' into branch3
+| |\  
+| * | 0f1cc3d commit third branch
+* | |   e48e978 Merge branch 'master' into branch2
+|\ \ \  
+| | |/  
+| |/|   
+| * |   691a3d4 Merge branch 'branch1'
+| |\ \  
+| | |/  
+| | * 584490b Second commit
+* | | 9620599 commit second branch
+|/ /  
+* | 2ab6994 Second commit master
+|/  
+* 3f541c5 initial commit
