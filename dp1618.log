@@ -44,5 +44,24 @@ dp1618
 |/  
 * 3f541c5 initial commit
 
-
+ndw245
+*   569ec7c Merge branch 'branch3' into branch2
+|\  
+| *   5084e7f try this
+| |\  
+| * | b04e420 branch3 commit
+* | |   d02a523 try this
+|\ \ \  
+| | |/  
+| |/|   
+| * |   0a9ddff try this
+| |\ \  
+| | |/  
+| | * 457eecb 1st branch1 commit
+* | | 112c832 branch2 commit
+|/ /  
+* | 2aa9718 2nd master commit
+|/  
+* 0a1a1ae first commit
+ 
 
